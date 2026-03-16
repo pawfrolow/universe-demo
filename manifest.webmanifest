@@ -1,8 +1,8 @@
 {
   "name": "Universe Scale",
   "short_name": "Universe",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#171933",
   "theme_color": "#171933",
